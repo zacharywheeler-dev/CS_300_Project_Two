@@ -1,0 +1,14 @@
+# Compiled binaries
+CS 300 Project Two Final Source
+*.dSYM/
+
+# CLion / JetBrains IDE files
+.idea/
+
+# CMake build artifacts
+cmake-build-debug/
+cmake-build-release/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile
