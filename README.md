@@ -38,7 +38,12 @@ Maintainability, readability, and adaptability all come down to discipline in th
 
 ## AI Usage Acknowledgment
 
-Generative AI tools (Google Gemini) were used to assist in the development of portions of this project, in accordance with SNHU's AI usage guidelines. All AI-assisted code was reviewed, tested, and understood before submission. Citation guidance followed the [Shapiro Library AI Citation Guide](https://libguides.snhu.edu/artificialintelligence).
+Generative AI tools were used to assist in the development and portfolio preparation of this project, in accordance with SNHU's AI usage guidelines. Specifically:
+
+- **Google Gemini** assisted with portions of the Project Two source code during development.
+- **Hermes Agent** (a personal AI agent built on Nous Research's Hermes framework) assisted with code review, repository cleanup, and the authoring of this README reflection.
+
+All AI-assisted work was reviewed, tested, and understood before submission. Citation guidance followed the [Shapiro Library AI Citation Guide](https://libguides.snhu.edu/artificialintelligence).
 
 ---
 
